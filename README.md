@@ -1,4 +1,4 @@
-# AdvancedNodeStarter
+# AWS SDK NODEJS
 
 Starting project for a course on Advanced Node @ Udemy
 
